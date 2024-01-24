@@ -1,0 +1,6 @@
+name: my_pulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: My first Pumuli project
